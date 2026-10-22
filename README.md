@@ -1,2 +1,0 @@
-# COMP229.004-F2026-MidTerm-301526834
-Midterm
